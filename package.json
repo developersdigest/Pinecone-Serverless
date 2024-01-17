@@ -1,0 +1,9 @@
+{
+  "name": "pinecone-serverless",
+  "module": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^2.0.0",
+    "openai": "^4.24.7"
+  }
+}
